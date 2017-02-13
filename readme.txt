@@ -1,3 +1,4 @@
 -To reflash the micro-controller please use the IO_Toggle.bin file with STM32 ST-LINK Utility, if using an original keypad please use IO_Toggle_Original_keypad.
 -If trying to rebuild from IAR the project workspace directory will contain the workspace used to build the code, Use the IO_Toggle workspace unless using an original keypad.
 -The Direct code files directory contains the project source code directly, for many versions throughout development. Use the latest version for the most recently updated code.
+-Other documentation for the project avalible by request.
