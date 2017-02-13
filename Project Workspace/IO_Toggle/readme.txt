@@ -1,4 +1,18 @@
 /**
+This project was originally modified from the IO_Toggle GPIO IO Toggle example provided from STMicroelectronics.
+Main has been rewritten completely during the project. Other files used during the project are purely for setup of the development board used. Some other files have been modified mostly to adjust clock sources.
+**/
+
+
+
+
+
+
+
+
+
+
+/**
   @page IO_Toggle GPIO IO Toggle example
   
   @verbatim
